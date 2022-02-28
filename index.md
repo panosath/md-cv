@@ -51,7 +51,7 @@ __High School of Lagadas__
 
 ### github
 
-My [personal github account](https://github.com/panosath) personal github account</a> hosts my hobby development projects as well as University projects.
+My [personal github account](https://github.com/panosath) hosts my hobby development projects as well as University projects.
 
 
 ## Hobbies and pastime activites
